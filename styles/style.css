@@ -1,0 +1,37 @@
+*{
+	background: #76608a;
+}
+
+.legislatorContainer{
+	display: inline-block;
+	text-align: center;
+	vertical-align: top;
+	/*width: 20%;*/
+	border: 5px solid #00aba9;
+	margin: 2%;
+	padding: 2%;
+	background: pink;
+}
+
+/*img{
+	border: 5px solid violet;
+	margin: 10px;
+}*/
+
+ul{
+	text-align: left;
+	background: pink;
+}
+
+.legislatorName {
+	font: bold 18px Georgia, serif;
+	background-color: pink;
+}
+
+p{
+	background-color: pink;
+}
+
+li{
+	background-color: pink;
+}
